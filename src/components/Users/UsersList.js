@@ -1,4 +1,3 @@
-import { classes } from 'istanbul-lib-coverage';
 import Card from '../UI/Card';
 
 import styles from './UsersList.module.css';
